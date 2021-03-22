@@ -1,0 +1,44 @@
+{
+    "promotions": [
+        {
+            "id": 1,
+            "title": "Notebook Acer 15,6'' A315-56-36Z1 i3 1005G1 4GB 1TB W10",
+            "price": 331990,
+            "url":"https://www.amazon.com.br/Skill-6600-Furadeira-impacto-Preto/dp/B079ZB8R4P/ref=sr_1_2",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/616xz%2BavQOL._AC_SL1000_.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Furadeira de Impacto Skil 6600 570W 127V e 3 Brocas para concreto",
+            "price": 13833,
+            "url":"https://www.amazon.com.br/Skill-6600-Furadeira-impacto-Preto/dp/B079ZB8R4P/ref=sr_1_2",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61TZXK48FKL._AC_SL1000_.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Novo Echo Dot (4ª Geração): Smart Speaker com Alexa - Cor Preta",
+            "price": 30099,
+            "url":"https://www.amazon.com.br/Skill-6600-Furadeira-impacto-Preto/dp/B079ZB8R4P/ref=sr_1_2",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/714Rq4k05UL._AC_SL1000_.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Console New Nintendo Switch - Azul Neon e Vermelho Neon (versão nacional)",
+            "price": 22699.90,
+            "url":"https://www.amazon.com.br/Skill-6600-Furadeira-impacto-Preto/dp/B079ZB8R4P/ref=sr_1_2",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61rLszWPavL._AC_SL1500_.jpg"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "comment": "TELA HD",
+            "promotionId": 1
+        },
+        {
+            "id": 2,
+            "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+            "promotionId": 2
+        }
+    ]
+}
