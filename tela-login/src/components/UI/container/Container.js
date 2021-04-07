@@ -5,7 +5,7 @@ const UiContainer = ({ children }) => {
     return (
         <div className="ui-container">
             {children}
-        </div>
+        </div> 
     )
 }
 export default UiContainer;
